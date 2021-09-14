@@ -1,2 +1,2 @@
 # VI
-vežbanje za ispit iz Veštačke inteligencije
+Vežbanje za ispit iz Veštačke inteligencije.
